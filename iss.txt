@@ -1,4 +1,4 @@
 {"57507CA8DE71~BETA==":"Mr Beta|1 May 2050",
 "6B01CB9B3F51~BETA==":"HackerVirisDok|1 March 2022",
-"8199D2F27149~BETA==":"Free User|Trial For 1 Days"
+"NDZIQ1JBQVMTA3MTAWMTDCRVRB~BETA==":"Unknown Banda|February 10"
 }
