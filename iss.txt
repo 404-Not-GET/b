@@ -1,5 +1,6 @@
 {"71C9E833E080~BETA==":"Mr Beta|1 May 2050",
 "6B01CB9B3F51~BETA==":"HackerVirisDok|1 March 2022",
 "65E428CEE92F~BETA==":"Jahid Khan|1 January 2019",
-"BF95620D158D~BETA==":"Ariyan Ahmed|1 March 2022"
+"BF95620D158D~BETA==":"Ariyan Ahmed|1 March 2022",
+"E7705C2A127E~BETA==":"Silad Mahfuz|No Expiration (Beta Friend)"
 }
