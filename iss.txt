@@ -1,4 +1,5 @@
 {"71C9E833E080~BETA==":"Mr Beta|1 May 2050",
 "E7705C2A127E~BETA==":"Silad Mahfuz|No Expiration (Beta Friend)",
-"C164F4625D81~BETA==":"Rasedul Islam Manik|30 March 2022"
+"C164F4625D81~BETA==":"Rasedul Islam Manik|30 March 2022",
+"D7970CB6DE12~BETA==":"Istiak Rishat|1 June 2022"
 }
